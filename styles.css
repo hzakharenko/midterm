@@ -1,0 +1,45 @@
+/*OVERALL SITE BASICS */
+h1, h2, h4, h5 {
+    font-family: 'Cormorant Infant', serif;
+}
+body {
+    font-family: 'Asap', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+/* WRAPPERS */
+#content-wrapper{
+    margin: 0 auto;
+    width: 55%;
+}
+#heading-wrapper h4{
+    font-weight: bold;
+}
+#heading-wrapper h5{
+    color: grey;
+}
+a {
+    color:#F54F25;
+}
+.external-link {
+    font-style: italic;
+}
+/*IMAGE*/
+.topper-image{
+    width: 100%;
+}
+.image-wrapper p.caption{
+    margin-top: 0;
+    color: grey;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+.image-wrapper img{
+    width: 100%;
+}
+.image-wrapper .topper-image{
+    margin: 0;
+}
+.image-wrapper {
+    margin: 35px 0;
+}
+/*font-family: 'Asap', sans-serif;
+font-family: 'Cormorant Infant', serif;*/
